@@ -6,7 +6,7 @@ email: armel.fauveau@globalis-ms.com # Your contant email
 description: "GLOBALIS Ⓖ co-founder/CTO, Web, Security, Performance, Apple  Addict, Geek Life, Astronomy, Ham Radio Operator F4HWN & RRF Admin, Nature, Fly Fishing and more."
 keywords: "Apache, Nginx, PHP, MySQL, MariaDB, Python, Web, HTML, CSS, Swift, Security, Performance, Apple, Geek Life, Astronomy, Arduino, M5Stack, ESP32, Ham Radio, RRF, Nature, Fly Fishing."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jg3hlx.github.io" # the base hostname & protocol for your site
+url: "http://armel.github.io" # the base hostname & protocol for your site
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
