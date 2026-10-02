@@ -1,5 +1,5 @@
-Armel FAUVEAU
+Syuuzou NAKAO
 
 GLOBALIS Ⓖ co-founder/CTO
 
-Web, Security, Performance, Apple  Addict, Geek Life, Astronomy, Ham Radio Operator F4HWN & RRF Admin, Nature, Fly Fishing and more.
+Web, Security, Performance, Apple  Addict, Geek Life, Astronomy, Ham Radio Operator JG3HLX & RRF Admin, Nature, Fly Fishing and more.
