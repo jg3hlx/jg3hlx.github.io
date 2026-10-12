@@ -8,7 +8,7 @@
     // theme's shared "isDarkTheme" key. Older keys stay as read-only fallbacks.
     const STORAGE_KEY = "currentLanguage";
     const LEGACY_STORAGE_KEYS = ["uvstudio.language", "uv-k5-flasher-lang"];
-    const SUPPORTED_LANGUAGES = ["en", "fr", "it", "es", "de", "pt", "ru", "pl", "zh", "nl"];
+    const SUPPORTED_LANGUAGES = ["en", "fr", "it", "es", "de", "pt", "ru", "pl", "zh", "nl", "ja"];
     const dictionaries = window.UVSTUDIO_LOCALES || {};
     const preferences = window.UVStudioPreferences;
 
